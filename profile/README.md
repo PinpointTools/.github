@@ -11,8 +11,8 @@
 
 <h2> 🤔 | What is this Organiziation? </h2>
 <p>
-    This is the organization where every single app this "company" has made! <br>
-    This "company" is still brand new we plan to make more software in the future!
+    We are a team of developers where we make software for <b>YOU</b>!
+    Currently, this team is new. So don't expect much from a singular person.
 </p>
 
 <h2> 🏡 | Where do I join the community? </h2>
