@@ -11,7 +11,7 @@
 
 <h2> 🤔 | What is this Organiziation? </h2>
 <p>
-    We are a team of developers where we make software for <b>YOU</b>!
+    We are a team of developers where we make software for <b>YOU</b>! <br>
     Currently, this team is new. So don't expect much from a singular person.
 </p>
 
