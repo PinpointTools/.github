@@ -30,6 +30,6 @@
 <h2> 😮 | How do I get hired? </h2>
 <p>
     <img src="idk.png" alt="idk" width="200"> <br>
-    we're not hiring yet lol
+    we're not hiring yet lol <br>
     it's either we interview you or you get invited
 </p>
