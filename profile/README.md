@@ -31,4 +31,5 @@
 <p>
     <img src="idk.png" alt="idk" width="200"> <br>
     we're not hiring yet lol
+    it's either we interview you or you get invited
 </p>
