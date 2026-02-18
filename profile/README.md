@@ -16,3 +16,7 @@
 
 <h2> Is there a official server? </h2>
 <p> Absoulutely! We have an official discord server. You can join in right now and talk to people! <a href="https://discord.gg/VQBDWSSnRA"> Click over here :) </a> </p>
+
+#
+
+> formerly known as; track the code!
